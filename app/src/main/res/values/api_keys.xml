@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Separate storage of API keys as stated in prompt.
+        It was kind of unclear what method to use to store this
+    -->
+    <string name="MAPS_API_KEY">AIzaSyA_WzKGHflvLXWvCeCZGcuU9YPcUiPfzOk</string>
+</resources>
